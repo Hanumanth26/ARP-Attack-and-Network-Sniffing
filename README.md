@@ -11,8 +11,8 @@ To explore network sniffing and ARP Attacks
 - `Step 2:` Investigate on the various categories of tools as follows.
 -  `Step 3:` Open terminal and try execute some kali linux commands
 
-### DEVELOPED BY : Sai Praneeth K
-### REGISTER NO : 212222230067
+### DEVELOPED BY : hanumanth rao A 
+### REGISTER NO : 212222240016
 ## ARP Attacks:  
 ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC address with an IP of a computer already on the LAN. 
 Boot kali and Windows7 virtual machines.
